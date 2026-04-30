@@ -7,9 +7,16 @@ A mobile-first habit tracker PWA built with Next.js, React, TypeScript, IndexedD
 
 ## Screenshots
 
-<img width="825" height="726" alt="image" src="https://github.com/user-attachments/assets/f7a19f7c-8cd8-4a9a-bde6-ff6f436f49a6" />
+
+
+
 <img width="1908" height="474" alt="image" src="https://github.com/user-attachments/assets/0b52540a-f4c8-472a-8ce5-b26386f38b65" />
+
+## INSIDE A HABIT
+<img width="825" height="726" alt="image" src="https://github.com/user-attachments/assets/f7a19f7c-8cd8-4a9a-bde6-ff6f436f49a6" />
 <img width="760" height="299" alt="image" src="https://github.com/user-attachments/assets/7253f515-30df-4eb1-b5e8-5367b09baf7a" />
+
+## Groups Enabled
 <img width="1897" height="490" alt="image" src="https://github.com/user-attachments/assets/9d080624-576f-4105-86e1-eb8bcef816a4" />
 
 
