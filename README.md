@@ -2,10 +2,9 @@
 
 A mobile-first habit tracker PWA built with Next.js, React, TypeScript, IndexedDB, and optional Firebase sync.
 
-![Habits dashboard preview](<img width="738" height="615" alt="image" src="https://github.com/user-attachments/assets/bee09ad2-f1b9-48ba-b67e-ff7b5e249218" />
-)
 
-## Screenshots
+
+## Habits dashboard preview
 
 
 
