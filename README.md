@@ -1,4 +1,6 @@
-<img width="738" height="615" alt="image" src="https://github.com/user-attachments/assets/3bef467a-7ad9-41c7-872e-cc31dc2dc24c" /># Habits
+<img width="738" height="615" alt="image" src="https://github.com/user-attachments/assets/3bef467a-7ad9-41c7-872e-cc31dc2dc24c" />
+# Habits
+https://test-ten-sigma-17.vercel.app/
 
 A mobile-first habit tracker PWA built with Next.js, React, TypeScript, IndexedDB, and optional Firebase sync.
 
