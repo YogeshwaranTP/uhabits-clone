@@ -1,14 +1,17 @@
-# Habits
+<img width="738" height="615" alt="image" src="https://github.com/user-attachments/assets/3bef467a-7ad9-41c7-872e-cc31dc2dc24c" /># Habits
 
 A mobile-first habit tracker PWA built with Next.js, React, TypeScript, IndexedDB, and optional Firebase sync.
 
-![Habits dashboard preview](./public/readme/dashboard-preview.svg)
+![Habits dashboard preview](<img width="738" height="615" alt="image" src="https://github.com/user-attachments/assets/bee09ad2-f1b9-48ba-b67e-ff7b5e249218" />
+)
 
 ## Screenshots
 
-| Dashboard | Groups | Detail View |
-| --- | --- | --- |
-| ![Dashboard screenshot](./public/readme/dashboard-preview.svg) | ![Groups screenshot](./public/readme/groups-preview.svg) | ![Detail screenshot](./public/readme/detail-preview.svg) |
+<img width="825" height="726" alt="image" src="https://github.com/user-attachments/assets/f7a19f7c-8cd8-4a9a-bde6-ff6f436f49a6" />
+<img width="1908" height="474" alt="image" src="https://github.com/user-attachments/assets/0b52540a-f4c8-472a-8ce5-b26386f38b65" />
+<img width="760" height="299" alt="image" src="https://github.com/user-attachments/assets/7253f515-30df-4eb1-b5e8-5367b09baf7a" />
+<img width="1897" height="490" alt="image" src="https://github.com/user-attachments/assets/9d080624-576f-4105-86e1-eb8bcef816a4" />
+
 
 ## What It Does
 
